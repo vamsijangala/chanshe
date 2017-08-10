@@ -4,7 +4,7 @@ public class Removingduplicates {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int[] input = {1, 7,3,3,3,3,10,23};
+		int[] input = {1, 7,3,3,3,10,23};
 		int current = input[0];
 		//boolean found = false;
 		//System.out.println(input.length);
